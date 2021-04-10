@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kemael
-- 👀 I’m interested iniInformation systems, digital privacy and innovative technologies
+- 👀 I’m interested in Information systems, digital privacy and innovative technologies
 - 🌱 I’m currently learning Python, Data Engineering and Full Stack Web Development
 
 <!---
