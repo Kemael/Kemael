@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kemael
 - 👀 I’m studying in Business Information technology and systems, digital privacy and innovative technologies
-- ✈️ Drone pilot in command and GIS/Mapping enthusiast 
+- ✈️ I'm a certified drone operator and RGB and multispectral mapping/GIS specialist
 - 🌱 I’m currently learning Python, Bash and Full Stack Web Development (MEVN)
 
 <!---
