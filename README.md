@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kemael
-- 👀 I’m interested in Information systems, digital privacy and innovative technologies
-- 🌱 I’m currently learning Python, Data Engineering and Full Stack Web Development
+- 👀 I’m studying in Business Information technology and systems, digital privacy and innovative technologies
+- ✈️ Drone pilot in command and GIS/Mapping enthusiast 
+- 🌱 I’m currently learning Python, Bash and Full Stack Web Development (MEVN)
 
 <!---
 Kemael/Kemael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
