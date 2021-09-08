@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kemael
 - 👀 I’m a student in Business Information Technology and Systems and IoT
-- ✈️ I'm a certified Drone Operator and RGB/Multispectral Mapping/GIS Specialist
+- ✈️ I'm a certified Drone Operator and RGB/Multispectral Mapping and GIS Specialist
 - 🌱 I’m currently learning C# and the .NET framework, Python and Linux
 
 <!---
