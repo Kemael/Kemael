@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kemael
-- 👀 I’m studying in Business Information technology and systems, digital privacy and innovative technologies
-- ✈️ I'm a certified drone operator and RGB and multispectral mapping/GIS specialist
-- 🌱 I’m currently learning Python, Bash and Full Stack Web Development (MEVN)
+- 👀 I’m a student in Business Information Technology and Systems and IoT
+- ✈️ I'm a certified Drone Operator and RGB/Multispectral Mapping/GIS Specialist
+- 🌱 I’m currently learning C# and the .NET framework, Python and Linux
 
 <!---
 Kemael/Kemael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
