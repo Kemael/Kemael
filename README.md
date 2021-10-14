@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <h1 align="center">Hi 👋, I'm Kémaël Josua Kauppaymuthoo</h1>
 <h2 align="center">A Curtin University student in Business Information Technology & Systems</h2>
 
@@ -10,7 +11,9 @@
 
 <h4 align="left">Languages and Tools:</h4>
 
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <i class="bash/bash-original" alt="bash" width="40" height="40"/> </a> 
+  
+ <i class="devicon-devicon-plain"></i> 
   
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   
