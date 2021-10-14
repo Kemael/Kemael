@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kémaël Josua Kauppaymuthoo</h1>
 <h2 align="center">A Curtin University student in Business Information Technology & Systems</h2>
 
-<h3 align-"left">I'm a passionate of what technology enables us to accomplish in the world. More specifically, the use of technology in enhancing organisational operatiosn, solving issues and supporting societal needs.</h3>
+<h3 align-"left">I'm passionate about the different achievements technology enables us to accomplish in the world. More specifically, the use of technology in enhancing organisational operations and solving their issues and supporting societal needs.</h3>
 
 - 🌱 I’m currently learning the **.NET Framework with C# (Console, Web and IoT), R, SQL (PostgresSQL), Docker & Kubernetes, Ansible and Linux (RedHat Fedora/CentOS & Shell Scripting)**
 
