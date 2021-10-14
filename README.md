@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning the **.NET Framework with C# in building Console, Web and IoT applications, R, SQL (PostgresSQL), Docker & Kubernetes, Ansible and Linux & Shell Scripting**
 
--
+- ✈️ I'm a certified Drone Operator and RGB/Multispectral Mapping GIS Professional
 
 
 <h3 align="left">Languages and Tools:</h3>
