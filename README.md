@@ -1,9 +1,3 @@
-
-
-
-- 🌱 I’m currently learning the .NET framework (C#) for Console, Web and IoT apps, Shell Scripting, Docker and Ansible.
-
-
 <h1 align="center">Hi 👋, I'm Kémaël Josua Kauppaymuthoo</h1>
 <h3 align="center">A Curtin University student in Business Information Technology & Systems</h3>
 
