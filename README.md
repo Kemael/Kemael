@@ -4,7 +4,7 @@
 
 <h3 align-"left">I'm a passionate of what technology enables us to accomplish in the world. More specifically, the use of technology in solving organisational issues and supporting societal needs.</h3>
 
-- 🌱 I’m currently learning the **.NET Framework with C# in building Console, Web and IoT applications, R, SQL (PostgresSQL), Docker & Kubernetes, Ansible and Linux (RedHat Fedora & Shell Scripting**
+- 🌱 I’m currently learning the **.NET Framework with C# in building Console, Web and IoT applications, R, SQL (PostgresSQL), Docker & Kubernetes, Ansible and Linux (RedHat Fedora & Shell Scripting)**
 
 - ✈️ I'm a certified Drone Operator and RGB/Multispectral Mapping GIS Professional
 
