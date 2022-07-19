@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kémaël Josua Kauppaymuthoo</h1>
 <h2 align="center">A Lunds Universitet 🇸🇪 postgraduate sudent in Information Systems</h2>
 
-<h3 align-"left">I'm passionate about the different achievements technology enables us to accomplish in the world. More specifically, the use of technology in enhancing organisational operations, supporting our societal needs and sustainability.</h3>
+<h3 align-"left">I'm interested and driven by the different achievements technology enables us to accomplish in the world. More specifically, the use of technology in enhancing organisational operations, supporting our societal needs and sustainability.</h3>
 
 - 🌱 I’m currently learning the **.NET Framework with C# (Console, Web and IoT) SQL (PostgresSQL), Docker & Kubernetes, Ansible and Linux (RedHat Fedora/CentOS & Shell Scripting)**
 
