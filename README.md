@@ -1,12 +1,12 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <h1 align="center">Hi 👋, I'm Kémaël Josua Kauppaymuthoo</h1>
-<h2 align="center">A Curtin University student in Business Information Technology & Systems</h2>
+<h2 align="center">A Lunds Universitet 🇸🇪 postgraduate sudent in Information Systems</h2>
 
-<h3 align-"left">I'm passionate about the different achievements technology enables us to accomplish in the world. More specifically, the use of technology in enhancing organisational operations and solving their issues and supporting societal needs.</h3>
+<h3 align-"left">I'm passionate about the different achievements technology enables us to accomplish in the world. More specifically, the use of technology in enhancing organisational operations, supporting our societal needs and sustainability.</h3>
 
-- 🌱 I’m currently learning the **.NET Framework with C# (Console, Web and IoT), R, SQL (PostgresSQL), Docker & Kubernetes, Ansible and Linux (RedHat Fedora/CentOS & Shell Scripting)**
+- 🌱 I’m currently learning the **.NET Framework with C# (Console, Web and IoT) SQL (PostgresSQL), Docker & Kubernetes, Ansible and Linux (RedHat Fedora/CentOS & Shell Scripting)**
 
-- ✈️ I'm a certified Drone Operator and RGB/Multispectral Mapping GIS Professional
+- ✈️ I'm also a certified Drone Operator and RGB/Multispectral Remote Sensing GIS Professional.
 
 
 <h4 align="left">Languages and Tools:</h4>
